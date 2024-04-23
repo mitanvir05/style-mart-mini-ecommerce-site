@@ -4,7 +4,7 @@ import logo2 from "../../assets/brand/brand-2.png";
 import logo3 from "../../assets/brand/brand-3.png";
 import logo4 from "../../assets/brand/brand-4.png";
 import logo5 from "../../assets/brand/brand-5.png";
-import img1 from "../../assets/grid/img1.png";
+import img1 from "../../assets/grid/img11.png";
 import img2 from "../../assets/grid/img2.png";
 import img3 from "../../assets/grid/img3.png";
 import img4 from "../../assets/grid/img4.png";
