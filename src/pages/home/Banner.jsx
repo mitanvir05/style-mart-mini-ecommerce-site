@@ -1,5 +1,5 @@
 import { FaShoppingBag } from "react-icons/fa";
-import banner from "/banner/banner1.png";
+import banner from "../../assets/banner/banner1.png";
 const Banner = () => {
   return (
     <div className="bg-primary-bg py-12 xl:px-28 px-4">

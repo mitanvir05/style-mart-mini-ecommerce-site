@@ -1,5 +1,5 @@
-import collectionbg from "/images/collection-bg.png";
-import zaraLogo from "/images/zara-logo.png";
+import collectionbg from "../../assets/images/collection-bg.png";
+import zaraLogo from "../../assets/images/zara-logo.png";
 
 const Collections = () => {
   return (

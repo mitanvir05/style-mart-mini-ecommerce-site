@@ -1,10 +1,10 @@
 import { Link } from "react-router-dom";
-import img1 from "/images/instagram/img1.png";
-import img2 from "/images/instagram/img2.png";
-import img3 from "/images/instagram/img3.png";
-import img4 from "/images/instagram/img4.png";
-import img5 from "/images/instagram/img5.png";
-import img6 from "/images/instagram/img6.png";
+import img1 from "../../assets/images/instagram/img1.png";
+import img2 from "../../assets/images/instagram/img2.png";
+import img3 from "../../assets/images/instagram/img3.png";
+import img4 from "../../assets/images/instagram/img4.png";
+import img5 from "../../assets/images/instagram/img5.png";
+import img6 from "../../assets/images/instagram/img6.png";
 
 const NewsLetter = () => {
   return (
@@ -41,10 +41,10 @@ const NewsLetter = () => {
             type="email"
             name="email"
             id="email"
-            placeholder="Eamil Address"
-            className="h-8 bg-transparent outline-none border-b-2 pl-2 border-black md:w-2/3 w-full mb-5 placeholder:textr-black mr-4"
+            placeholder="Email Address"
+            className="h-8 bg-transparent outline-none    md:w-2/3 w-full mb-5 placeholder:text-black mr-4"
           />
-          <input type="submit" value={"submit"} className="bg-black text-white px-6 py-2 rounded-sm"/>
+          <input type="submit" value={"submit"} className="bg-black text-white px-4 py-1 rounded"/>
         </form>
       </div>
     </div>
