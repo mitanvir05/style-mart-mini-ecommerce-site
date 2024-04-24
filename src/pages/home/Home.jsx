@@ -1,4 +1,5 @@
 import Banner from "./Banner";
+import BestSellers from "./BestSellers";
 import Category from "./Category";
 import Collections from "./Collections";
 import Products from "./Products";
@@ -11,6 +12,7 @@ const Home = () => {
            <Category></Category>
            <Products></Products>
            <Collections></Collections>
+           <BestSellers></BestSellers>
         </div>
     );
 };
