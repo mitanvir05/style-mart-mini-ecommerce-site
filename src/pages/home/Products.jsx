@@ -21,7 +21,7 @@ const Products = () => {
     };
     fetchData();
   }, []);
-  console.log(products);
+ // console.log(products);
   //   filtering func
   const filtereItems = (category) => {
     const filtered =
